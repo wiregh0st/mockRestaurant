@@ -3,5 +3,3 @@ and redirects the user after 5 seconds back to the main order page. The session 
 
 
 I would eventually like to eventually add more functionality. A database which contains food amounts that restock daily. An optional alert system (email. text would be easy but not sure about fees) for when the order is ready. Maybe some way for the computer to generate orders and some display page which shows these orders as they are created. 
-
-To add, the display formatting was a royal pain. Glad I finally figured it out though because I can utilize it in the future! Learned some bootstrap as well even though I removed it from my project.
